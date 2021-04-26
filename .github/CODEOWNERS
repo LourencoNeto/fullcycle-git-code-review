@@ -1,3 +1,4 @@
 .github/ @lourenconeto
 *.go @lourenconeto
 *.html @lourenconeto
+*.js @lourenconeto
